@@ -1,0 +1,4 @@
+﻿123;vanduo;10
+125;elektra;5
+126;siuksles;1
+127;tvarkymas;1

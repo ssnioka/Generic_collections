@@ -1,0 +1,4 @@
+﻿Antanas;Antanaitis;Jotvingiu 15;Spalis;123;2
+Juozas;Juozaitis;Karaliaus 17;Gruodis;123;1
+Pranas;Pranaitis;Ukmerges 15;Birzelis;126;1
+Kasparas;Kasparaitis;Vetrunges 1;Birzelis;127;1
